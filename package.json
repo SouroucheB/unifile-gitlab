@@ -1,0 +1,23 @@
+{
+  "name": "unifile-gitlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouroucheB/unifile-gitlab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SouroucheB/unifile-gitlab/issues"
+  },
+  "homepage": "https://github.com/SouroucheB/unifile-gitlab#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "unifile-common-tools": "^1.0.0"
+  }
+}
